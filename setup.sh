@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cp ./.vimrc ~
+cp ./vimrc ~/.vimrc
 
 if [ ! -d ~/.vim ] 
 then 
